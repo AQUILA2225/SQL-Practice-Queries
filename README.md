@@ -7,6 +7,9 @@ The goal of this project is to practice SQL concepts and improve problem-solving
 
 - Basic SQL Queries
 - Filtering Data (WHERE clause)
+- Operators in SQL
+- Special Operators in SQL
+- 
 
 
 
