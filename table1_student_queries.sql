@@ -43,6 +43,14 @@ insert into student (id,name,age,stream,role) values
 3. Show name and age
   SELECT name, age FROM students;
 
+4. Display students whose stream is CSE
+  SELECT * from student
+  WHERE stream = 'cse';
+
+5. Display student with id 101
+  SELECT * from student
+  WHERE id = 101;
+  
 ** QUERIES USING COMPARISION OPERATORS
 
 1. Students whose age is 24
@@ -101,3 +109,10 @@ insert into student (id,name,age,stream,role) values
   SELECT *
   FROM student
   WHERE age <> 24;
+
+5. Get name whose age is greater than or equal to 22
+   SELECT * from 
+   FROM student
+   WHERE age >= 22;
+
+
