@@ -90,8 +90,6 @@ description text
 );
 
 
-
-
 ** TABLE 5: PRODUCTS01 TABLE **
 CREATE TABLE products01(
 id int primary key,
